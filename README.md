@@ -1,2 +1,2 @@
 ##THIS IS A SHORT EXPLANATION ON THE PROJECT##
-## I had to pull info from the webpages, clean it, find info for revenue data from the first five and also the last five lines of data. This is a clean version of my output. I did get a bit of help because I am self-learning, but it is what it is. Enjoy ##
+## I had to pull info from the webpages, clean it, find info for revenue data from the first five and also the last five lines of data. This is a clean version of my output. Not too sure why the graphs in this uploaded file were not showing up, so I also added the screenshots of the graphs for reference. I am self-learning, but it is what it is. Enjoy. ##
